@@ -1,0 +1,27 @@
+Methodology
+
+The platform had implemented as a web app using HTML, CSS and JS for the frontend
+and python(Flask) for the backend. All the datas from clients and appliers are 
+registered on the database.
+
+
+The online freelance platform provides a venue for employers and job seekers to 
+meet and conduct business whether for part-time and full-time jobs as well as project 
+based or long term commitments. The platform is web app where both freelancers & clients 
+create accounts. The client posts jobs and freelancers make bids or apply for the job. 
+After getting a few proposals, clients discuss with preferred freelancers and hire whom 
+they want. Once the freelancer completes the job and delivers it, the buyer checks 
+the work and approves it upon checking. After approving the work, the freelancing platform releases
+ the fund to the freelancer. Then the buyer leaves feedback & ratings to the freelancer and also the 
+freelancer does the same.
+
+
+The best part about our platform is that it ensures the security of money both for freelancers and clients.
+Both employees and employers are protected via escrow payments. A contract will not be paid until all 
+stipulations in the agreement are not fulfilled. Furthermore, freelancers also have ratings which work best 
+for everyone. Employers can see which freelancers have performed well and freelancers with great reviews find better jobs.
+
+
+
+
+
