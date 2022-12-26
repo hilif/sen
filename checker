@@ -13,17 +13,17 @@
         <h2>You don't take a picture, You make it!</h2>
         <nav>
             <ul>
-                <li><a href="home.html">HOME</a></li>
-                <li><a href="contact.html">CONTACT</a></li>
-                <li><a href="about.html">ABOUT</a></li>
-                <li id="dropdown" ><a href="#">SERVICES</a>
+                <li><a href="home.html" aria-label="Home Page">HOME</a></li>
+                <li><a href="contact.html" aria-label="Contact Page">CONTACT</a></li>
+                <li><a href="about.html" aria-label="About Page">ABOUT</a></li>
+                <li id="dropdown" ><a href="#" aria-label="There is a dropdown menu here">SERVICES</a>
                     <ul>
-                        <li><a href="wallpaperPhotos.html">WALLPAPER PHOTOS</a></li>
-                        <li><a href="photoTips.html">PHOTO TIPS</a></li>
-                        <li><a href="photoCompetition.html">PHOTO COMPETITON</a></li>
+                        <li><a href="wallpaperPhotos.html" aria-label="wallpaper photos pages">WALLPAPER PHOTOS</a></li>
+                        <li><a href="photoTips.html" aria-label="photo Tips Page">PHOTO TIPS</a></li>
+                        <li><a href="photoCompetition.html" aria-label="photo Competition Page">PHOTO COMPETITON</a></li>
                     </ul>
                 </li>
-                <li><a href="gallery.html">GALLERY</a></li>
+                <li><a href="gallery.html" aria-label="Gallery Page">GALLERY</a></li>
             </ul>
         </nav>
        </div>
@@ -58,6 +58,7 @@
             </video>
         </div>
     </div>
- 
+
+    
 </body>
 </html>
