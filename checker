@@ -1,34 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elohim Pictures</title>
-</head>
-<body>
-    <header>
-       <div class="header">
-        <img id="logo" src="images/logo.jpg" alt="Elohim pictures logo">
-        <h2>You don't take a picture, You make it!</h2>
-        <nav>
-            <ul>
-                <li><a href="home.html" aria-label="Home Page">HOME</a></li>
-                <li><a href="contact.html" aria-label="Contact Page">CONTACT</a></li>
-                <li><a href="about.html" aria-label="About Page">ABOUT</a></li>
-                <li id="dropdown" ><a href="#" aria-label="There is a dropdown menu here">SERVICES</a>
-                    <ul>
-                        <li><a href="wallpaperPhotos.html" aria-label="wallpaper photos pages">WALLPAPER PHOTOS</a></li>
-                        <li><a href="photoTips.html" aria-label="photo Tips Page">PHOTO TIPS</a></li>
-                        <li><a href="photoCompetition.html" aria-label="photo Competition Page">PHOTO COMPETITON</a></li>
-                    </ul>
-                </li>
-                <li><a href="gallery.html" aria-label="Gallery Page">GALLERY</a></li>
-            </ul>
-        </nav>
-       </div>
-    </header>
+<div class="section1">
+        <ul>
+            <li>Mobile Photgraphs</li>
+            <li>Photo Tips</li>
+            <li>Photo Competitions</li>
+            <li>Wallpaper Photos</li>
+        </ul>
+    </div>
 
-    
-</body>
-</html>
+    <div class="section2">
+        <div class="firstDivision">
+            <img src="images/image1.jpg" alt="A man walking on road.">
+            <div class="centerpart">
+                <p>Lets Motivate and Entertain You!</p>
+                <p>Colour-Loving and Character Hunting!</p>
+                <img src="images/image2.jpg" alt="A bulb light with a circle shape and touched by a pencil.">
+            </div>
+            <img src="images/image3.jpg" alt="A police man cars on a road.">
+        </div>
+        <div class="video" >
+            <video controls>
+                <source src="video.mp4" type="video/mp4">
+                <track kind="captions" 
+                       src="captions.vtt" 
+                       srclang="en" 
+                       label="English">
+            </video>
+        </div>
+    </div>
